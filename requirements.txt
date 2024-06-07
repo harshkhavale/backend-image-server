@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+opencv-python
+pytesseract
+Pillow
+sqlalchemy
+easyocr
+selenium
+psycopg2-binary  # PostgreSQL adapter
